@@ -36,8 +36,8 @@ nav {
 }
 
 .logomiddle {
-    height: 400px;
-    width: 400px;
+    height: 30vh;
+    width: 25vw;
     animation: spin 1ms linear infinite;
 }
 
